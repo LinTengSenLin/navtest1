@@ -2,4 +2,4 @@ av test1
 git pus
 clone nav test1
 clone nav test2
-diff conflict
+solved conflict
