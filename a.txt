@@ -1,3 +1,4 @@
 av test1
-git push
+git pus
 clone nav test1
+clone nav test2
