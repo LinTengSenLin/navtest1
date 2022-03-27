@@ -1,2 +1,3 @@
-nav test1
+av test1
 git push
+clone nav test1
